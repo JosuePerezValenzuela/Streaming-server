@@ -1,0 +1,12 @@
+2024/05/17 16:07:06 [emerg] 6992#8844: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2024/05/17 16:08:52 [emerg] 5040#7968: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2024/05/17 16:09:41 [emerg] 3940#7380: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2024/05/25 05:51:28 [emerg] 10116#1508: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:51:46 [emerg] 2836#11040: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:52:04 [emerg] 10236#3188: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:52:41 [emerg] 7176#11108: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:52:52 [emerg] 1792#11168: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:54:45 [emerg] 11168#13052: unknown directive "//del" in C:\nginx/conf/nginx.conf:21
+2024/05/25 05:55:47 [emerg] 2560#9616: unknown directive "if($request_method" in C:\nginx/conf/nginx.conf:20
+2024/05/25 05:57:28 [emerg] 14108#13692: unknown directive "if($request_method" in C:\nginx/conf/nginx.conf:20
+2024/05/25 05:58:04 [emerg] 10964#9596: invalid parameter "no-Cache" in C:\nginx/conf/nginx.conf:33
